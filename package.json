@@ -4,7 +4,7 @@
 	"description": "This full-stack site will take in results of users surveys, and displays the best match with others",
 	"main": "server.js",
 	"dependencies":{
-		"body-parcer": "^1.15.0",
+		"body-parser": "^1.15.0",
 		"express": "^4.13.4"
 	},
 

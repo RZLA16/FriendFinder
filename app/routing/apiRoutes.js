@@ -3,7 +3,7 @@
 // We are linking our routes to a series of "data" sources.
 
 
-var friendsData = require("../data/friendsData");
+var friendsData = require("../data/friends");
 
 // ROUTING
 
@@ -28,7 +28,7 @@ module.exports = function(app) {
     
    // insert code that compares the survey results and the data from friends.js
 
-    }
+  
 
   });
 
